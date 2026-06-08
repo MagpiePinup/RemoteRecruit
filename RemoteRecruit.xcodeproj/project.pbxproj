@@ -1,0 +1,585 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 77;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		9BB9BA582FD6A349000DB0B1 /* jobs.json in Resources */ = {isa = PBXBuildFile; fileRef = 9BB9BA572FD6A349000DB0B1 /* jobs.json */; };
+		9BB9BA592FD6A349000DB0B1 /* jobs.json in Resources */ = {isa = PBXBuildFile; fileRef = 9BB9BA572FD6A349000DB0B1 /* jobs.json */; };
+		9BB9BA5A2FD6A349000DB0B1 /* jobs.json in Resources */ = {isa = PBXBuildFile; fileRef = 9BB9BA572FD6A349000DB0B1 /* jobs.json */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		9BB9BA0A2FD57C9D000DB0B1 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 9BB9B9F42FD57C9A000DB0B1 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 9BB9B9FB2FD57C9A000DB0B1;
+			remoteInfo = RemoteRecruit;
+		};
+		9BB9BA142FD57C9D000DB0B1 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 9BB9B9F42FD57C9A000DB0B1 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 9BB9B9FB2FD57C9A000DB0B1;
+			remoteInfo = RemoteRecruit;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		9BB9B9FC2FD57C9A000DB0B1 /* RemoteRecruit.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = RemoteRecruit.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		9BB9BA092FD57C9D000DB0B1 /* RemoteRecruitTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = RemoteRecruitTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		9BB9BA132FD57C9D000DB0B1 /* RemoteRecruitUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = RemoteRecruitUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		9BB9BA572FD6A349000DB0B1 /* jobs.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = jobs.json; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFileSystemSynchronizedRootGroup section */
+		9BB9B9FE2FD57C9A000DB0B1 /* RemoteRecruit */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = RemoteRecruit;
+			sourceTree = "<group>";
+		};
+		9BB9BA0C2FD57C9D000DB0B1 /* RemoteRecruitTests */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = RemoteRecruitTests;
+			sourceTree = "<group>";
+		};
+/* End PBXFileSystemSynchronizedRootGroup section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		9BB9B9F92FD57C9A000DB0B1 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		9BB9BA062FD57C9D000DB0B1 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		9BB9BA102FD57C9D000DB0B1 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		9BB9B9F32FD57C9A000DB0B1 = {
+			isa = PBXGroup;
+			children = (
+				9BB9BA562FD6A33C000DB0B1 /* Resources */,
+				9BB9B9FE2FD57C9A000DB0B1 /* RemoteRecruit */,
+				9BB9BA0C2FD57C9D000DB0B1 /* RemoteRecruitTests */,
+				9BB9B9FD2FD57C9A000DB0B1 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		9BB9B9FD2FD57C9A000DB0B1 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				9BB9B9FC2FD57C9A000DB0B1 /* RemoteRecruit.app */,
+				9BB9BA092FD57C9D000DB0B1 /* RemoteRecruitTests.xctest */,
+				9BB9BA132FD57C9D000DB0B1 /* RemoteRecruitUITests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		9BB9BA562FD6A33C000DB0B1 /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				9BB9BA572FD6A349000DB0B1 /* jobs.json */,
+			);
+			path = Resources;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		9BB9B9FB2FD57C9A000DB0B1 /* RemoteRecruit */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 9BB9BA1D2FD57C9D000DB0B1 /* Build configuration list for PBXNativeTarget "RemoteRecruit" */;
+			buildPhases = (
+				9BB9B9F82FD57C9A000DB0B1 /* Sources */,
+				9BB9B9F92FD57C9A000DB0B1 /* Frameworks */,
+				9BB9B9FA2FD57C9A000DB0B1 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			fileSystemSynchronizedGroups = (
+				9BB9B9FE2FD57C9A000DB0B1 /* RemoteRecruit */,
+			);
+			name = RemoteRecruit;
+			packageProductDependencies = (
+			);
+			productName = RemoteRecruit;
+			productReference = 9BB9B9FC2FD57C9A000DB0B1 /* RemoteRecruit.app */;
+			productType = "com.apple.product-type.application";
+		};
+		9BB9BA082FD57C9D000DB0B1 /* RemoteRecruitTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 9BB9BA202FD57C9D000DB0B1 /* Build configuration list for PBXNativeTarget "RemoteRecruitTests" */;
+			buildPhases = (
+				9BB9BA052FD57C9D000DB0B1 /* Sources */,
+				9BB9BA062FD57C9D000DB0B1 /* Frameworks */,
+				9BB9BA072FD57C9D000DB0B1 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				9BB9BA0B2FD57C9D000DB0B1 /* PBXTargetDependency */,
+			);
+			fileSystemSynchronizedGroups = (
+				9BB9BA0C2FD57C9D000DB0B1 /* RemoteRecruitTests */,
+			);
+			name = RemoteRecruitTests;
+			packageProductDependencies = (
+			);
+			productName = RemoteRecruitTests;
+			productReference = 9BB9BA092FD57C9D000DB0B1 /* RemoteRecruitTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+		9BB9BA122FD57C9D000DB0B1 /* RemoteRecruitUITests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 9BB9BA232FD57C9D000DB0B1 /* Build configuration list for PBXNativeTarget "RemoteRecruitUITests" */;
+			buildPhases = (
+				9BB9BA0F2FD57C9D000DB0B1 /* Sources */,
+				9BB9BA102FD57C9D000DB0B1 /* Frameworks */,
+				9BB9BA112FD57C9D000DB0B1 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				9BB9BA152FD57C9D000DB0B1 /* PBXTargetDependency */,
+			);
+			name = RemoteRecruitUITests;
+			packageProductDependencies = (
+			);
+			productName = RemoteRecruitUITests;
+			productReference = 9BB9BA132FD57C9D000DB0B1 /* RemoteRecruitUITests.xctest */;
+			productType = "com.apple.product-type.bundle.ui-testing";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		9BB9B9F42FD57C9A000DB0B1 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastSwiftUpdateCheck = 2630;
+				LastUpgradeCheck = 2630;
+				TargetAttributes = {
+					9BB9B9FB2FD57C9A000DB0B1 = {
+						CreatedOnToolsVersion = 26.3;
+					};
+					9BB9BA082FD57C9D000DB0B1 = {
+						CreatedOnToolsVersion = 26.3;
+						TestTargetID = 9BB9B9FB2FD57C9A000DB0B1;
+					};
+					9BB9BA122FD57C9D000DB0B1 = {
+						CreatedOnToolsVersion = 26.3;
+						TestTargetID = 9BB9B9FB2FD57C9A000DB0B1;
+					};
+				};
+			};
+			buildConfigurationList = 9BB9B9F72FD57C9A000DB0B1 /* Build configuration list for PBXProject "RemoteRecruit" */;
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 9BB9B9F32FD57C9A000DB0B1;
+			minimizedProjectReferenceProxies = 1;
+			preferredProjectObjectVersion = 77;
+			productRefGroup = 9BB9B9FD2FD57C9A000DB0B1 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				9BB9B9FB2FD57C9A000DB0B1 /* RemoteRecruit */,
+				9BB9BA082FD57C9D000DB0B1 /* RemoteRecruitTests */,
+				9BB9BA122FD57C9D000DB0B1 /* RemoteRecruitUITests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		9BB9B9FA2FD57C9A000DB0B1 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				9BB9BA582FD6A349000DB0B1 /* jobs.json in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		9BB9BA072FD57C9D000DB0B1 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				9BB9BA5A2FD6A349000DB0B1 /* jobs.json in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		9BB9BA112FD57C9D000DB0B1 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				9BB9BA592FD6A349000DB0B1 /* jobs.json in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		9BB9B9F82FD57C9A000DB0B1 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		9BB9BA052FD57C9D000DB0B1 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		9BB9BA0F2FD57C9D000DB0B1 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		9BB9BA0B2FD57C9D000DB0B1 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 9BB9B9FB2FD57C9A000DB0B1 /* RemoteRecruit */;
+			targetProxy = 9BB9BA0A2FD57C9D000DB0B1 /* PBXContainerItemProxy */;
+		};
+		9BB9BA152FD57C9D000DB0B1 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 9BB9B9FB2FD57C9A000DB0B1 /* RemoteRecruit */;
+			targetProxy = 9BB9BA142FD57C9D000DB0B1 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin XCBuildConfiguration section */
+		9BB9BA1B2FD57C9D000DB0B1 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 26.2;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "DEBUG $(inherited)";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		9BB9BA1C2FD57C9D000DB0B1 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 26.2;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		9BB9BA1E2FD57C9D000DB0B1 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = RemoteRecruit.RemoteRecruit;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				STRING_CATALOG_GENERATE_SYMBOLS = YES;
+				SWIFT_APPROACHABLE_CONCURRENCY = YES;
+				SWIFT_DEFAULT_ACTOR_ISOLATION = MainActor;
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_UPCOMING_FEATURE_MEMBER_IMPORT_VISIBILITY = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		9BB9BA1F2FD57C9D000DB0B1 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = RemoteRecruit.RemoteRecruit;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				STRING_CATALOG_GENERATE_SYMBOLS = YES;
+				SWIFT_APPROACHABLE_CONCURRENCY = YES;
+				SWIFT_DEFAULT_ACTOR_ISOLATION = MainActor;
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_UPCOMING_FEATURE_MEMBER_IMPORT_VISIBILITY = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+		9BB9BA212FD57C9D000DB0B1 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 26.2;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = RemoteRecruit.RemoteRecruitTests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				STRING_CATALOG_GENERATE_SYMBOLS = NO;
+				SWIFT_APPROACHABLE_CONCURRENCY = YES;
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_UPCOMING_FEATURE_MEMBER_IMPORT_VISIBILITY = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/RemoteRecruit.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/RemoteRecruit";
+			};
+			name = Debug;
+		};
+		9BB9BA222FD57C9D000DB0B1 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 26.2;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = RemoteRecruit.RemoteRecruitTests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				STRING_CATALOG_GENERATE_SYMBOLS = NO;
+				SWIFT_APPROACHABLE_CONCURRENCY = YES;
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_UPCOMING_FEATURE_MEMBER_IMPORT_VISIBILITY = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/RemoteRecruit.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/RemoteRecruit";
+			};
+			name = Release;
+		};
+		9BB9BA242FD57C9D000DB0B1 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = RemoteRecruit.RemoteRecruitUITests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				STRING_CATALOG_GENERATE_SYMBOLS = NO;
+				SWIFT_APPROACHABLE_CONCURRENCY = YES;
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_UPCOMING_FEATURE_MEMBER_IMPORT_VISIBILITY = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = RemoteRecruit;
+			};
+			name = Debug;
+		};
+		9BB9BA252FD57C9D000DB0B1 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = RemoteRecruit.RemoteRecruitUITests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				STRING_CATALOG_GENERATE_SYMBOLS = NO;
+				SWIFT_APPROACHABLE_CONCURRENCY = YES;
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_UPCOMING_FEATURE_MEMBER_IMPORT_VISIBILITY = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = RemoteRecruit;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		9BB9B9F72FD57C9A000DB0B1 /* Build configuration list for PBXProject "RemoteRecruit" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				9BB9BA1B2FD57C9D000DB0B1 /* Debug */,
+				9BB9BA1C2FD57C9D000DB0B1 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		9BB9BA1D2FD57C9D000DB0B1 /* Build configuration list for PBXNativeTarget "RemoteRecruit" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				9BB9BA1E2FD57C9D000DB0B1 /* Debug */,
+				9BB9BA1F2FD57C9D000DB0B1 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		9BB9BA202FD57C9D000DB0B1 /* Build configuration list for PBXNativeTarget "RemoteRecruitTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				9BB9BA212FD57C9D000DB0B1 /* Debug */,
+				9BB9BA222FD57C9D000DB0B1 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		9BB9BA232FD57C9D000DB0B1 /* Build configuration list for PBXNativeTarget "RemoteRecruitUITests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				9BB9BA242FD57C9D000DB0B1 /* Debug */,
+				9BB9BA252FD57C9D000DB0B1 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 9BB9B9F42FD57C9A000DB0B1 /* Project object */;
+}

@@ -1,0 +1,393 @@
+{
+  "jobs": [
+    {
+      "id": "j001",
+      "title": "Senior iOS Engineer",
+      "company": {
+        "name": "Stripe",
+        "logoURL": null,
+        "industry": "FinTech",
+        "size": "5,000-10,000 employees",
+        "about": "Stripe is a technology company that builds economic infrastructure for the internet. Businesses of every size use our software to accept payments and manage their businesses online.",
+        "website": "https://stripe.com"
+      },
+      "location": {
+        "city": "San Francisco",
+        "state": "CA",
+        "country": "USA"
+      },
+      "salary": {
+        "min": 180000,
+        "max": 240000,
+        "currency": "USD"
+      },
+      "description": "We are looking for a Senior iOS Engineer to join our mobile infrastructure team. You will build and scale the Stripe iOS SDK used by millions of merchants worldwide. You will work closely with product, design, and backend engineers to deliver high-quality, reliable payment experiences.",
+      "requirements": [
+        "5+ years of iOS development experience",
+        "Deep knowledge of Swift and UIKit/SwiftUI",
+        "Experience with payment SDKs or financial apps",
+        "Strong understanding of threading, memory management, and performance",
+        "Experience with unit and UI testing"
+      ],
+      "employmentType": "Full-Time",
+      "postedDate": "2026-05-28T10:00:00Z",
+      "isRemote": false
+    },
+    {
+      "id": "j002",
+      "title": "iOS Developer",
+      "company": {
+        "name": "Airbnb",
+        "logoURL": null,
+        "industry": "Travel & Hospitality",
+        "size": "6,000+ employees",
+        "about": "Airbnb is an online marketplace that connects people who want to rent out their homes with people looking for accommodations. We're on a mission to create a world where anyone can belong anywhere.",
+        "website": "https://airbnb.com"
+      },
+      "location": {
+        "city": "Remote",
+        "state": "N/A",
+        "country": "USA"
+      },
+      "salary": {
+        "min": 150000,
+        "max": 200000,
+        "currency": "USD"
+      },
+      "description": "Join Airbnb's Guest & Host Experience team to build the features that connect millions of travelers with unique homes around the world. You'll own end-to-end development of iOS features including search, booking flows, and messaging.",
+      "requirements": [
+        "3+ years professional iOS development",
+        "Proficiency in Swift",
+        "Experience with REST APIs and JSON parsing",
+        "Familiarity with CI/CD pipelines",
+        "Good communication skills"
+      ],
+      "employmentType": "Full-Time",
+      "postedDate": "2026-06-01T09:00:00Z",
+      "isRemote": true
+    },
+    {
+      "id": "j003",
+      "title": "Mobile Engineer – iOS",
+      "company": {
+        "name": "Spotify",
+        "logoURL": null,
+        "industry": "Music & Entertainment",
+        "size": "9,000+ employees",
+        "about": "Spotify is a digital music service that gives you access to millions of songs. Our mission is to unlock the potential of human creativity by giving a million creative artists the opportunity to live off their art.",
+        "website": "https://spotify.com"
+      },
+      "location": {
+        "city": "New York",
+        "state": "NY",
+        "country": "USA"
+      },
+      "salary": {
+        "min": 160000,
+        "max": 220000,
+        "currency": "USD"
+      },
+      "description": "As a Mobile Engineer at Spotify, you will work within one of our cross-functional squads to design, build, and ship features used by over 600 million users. You'll be deeply involved in technical decisions, from architecture to release strategy.",
+      "requirements": [
+        "4+ years iOS development experience",
+        "Swift expertise",
+        "Experience with audio/media frameworks is a plus",
+        "Passion for music and user experience",
+        "Ability to work in a fast-paced agile environment"
+      ],
+      "employmentType": "Full-Time",
+      "postedDate": "2026-05-20T08:00:00Z",
+      "isRemote": false
+    },
+    {
+      "id": "j004",
+      "title": "Junior iOS Developer",
+      "company": {
+        "name": "Nubank",
+        "logoURL": null,
+        "industry": "FinTech",
+        "size": "7,000+ employees",
+        "about": "Nubank is one of the world's largest digital financial services platforms, empowering people in Latin America to take control of their financial lives.",
+        "website": "https://nubank.com.br"
+      },
+      "location": {
+        "city": "São Paulo",
+        "state": "SP",
+        "country": "Brazil"
+      },
+      "salary": {
+        "min": 60000,
+        "max": 90000,
+        "currency": "USD"
+      },
+      "description": "We're looking for a Junior iOS Developer to join our growing mobile team. You'll work alongside senior engineers to build new features for our banking app used by 90+ million customers across Latin America.",
+      "requirements": [
+        "1+ year iOS development or strong portfolio",
+        "Understanding of Swift fundamentals",
+        "Willingness to learn and grow",
+        "Basic knowledge of version control (Git)"
+      ],
+      "employmentType": "Full-Time",
+      "postedDate": "2026-06-03T11:00:00Z",
+      "isRemote": false
+    },
+    {
+      "id": "j005",
+      "title": "iOS Engineer – SwiftUI",
+      "company": {
+        "name": "Linear",
+        "logoURL": null,
+        "industry": "Productivity Software",
+        "size": "50-200 employees",
+        "about": "Linear is a project management tool built for high-performance teams. We obsess over craft and design to build products that teams love.",
+        "website": "https://linear.app"
+      },
+      "location": {
+        "city": "Remote",
+        "state": "N/A",
+        "country": "Worldwide"
+      },
+      "salary": {
+        "min": 140000,
+        "max": 190000,
+        "currency": "USD"
+      },
+      "description": "Linear is looking for an iOS engineer who is passionate about crafting delightful, high-performance native apps. You'll own the iOS client, working closely with our small, focused team to ship features that make developers more productive every day.",
+      "requirements": [
+        "3+ years iOS development",
+        "Strong SwiftUI skills",
+        "Attention to detail in UI and performance",
+        "Experience building Mac Catalyst or macOS apps is a bonus",
+        "Self-directed and comfortable working async"
+      ],
+      "employmentType": "Full-Time",
+      "postedDate": "2026-05-15T07:00:00Z",
+      "isRemote": true
+    },
+    {
+      "id": "j006",
+      "title": "iOS Contract Developer",
+      "company": {
+        "name": "Thoughtworks",
+        "logoURL": null,
+        "industry": "Technology Consulting",
+        "size": "10,000+ employees",
+        "about": "Thoughtworks is a global technology consultancy that integrates strategy, design and engineering to drive digital innovation.",
+        "website": "https://thoughtworks.com"
+      },
+      "location": {
+        "city": "Chicago",
+        "state": "IL",
+        "country": "USA"
+      },
+      "salary": {
+        "min": 100,
+        "max": 150,
+        "currency": "USD"
+      },
+      "description": "Thoughtworks is seeking an experienced iOS contractor for a 6-month engagement with a Fortune 500 retail client. You'll be embedded in a cross-functional delivery team building a consumer-facing shopping app.",
+      "requirements": [
+        "5+ years iOS development",
+        "Experience delivering apps in a consulting context",
+        "Strong communication with non-technical stakeholders",
+        "Available to start within 2 weeks"
+      ],
+      "employmentType": "Contract",
+      "postedDate": "2026-06-05T14:00:00Z",
+      "isRemote": false
+    },
+    {
+      "id": "j007",
+      "title": "Staff iOS Engineer",
+      "company": {
+        "name": "Robinhood",
+        "logoURL": null,
+        "industry": "FinTech",
+        "size": "2,000-5,000 employees",
+        "about": "Robinhood Markets is an American financial services company offering commission-free trades of stocks and exchange-traded funds via a mobile app.",
+        "website": "https://robinhood.com"
+      },
+      "location": {
+        "city": "Menlo Park",
+        "state": "CA",
+        "country": "USA"
+      },
+      "salary": {
+        "min": 220000,
+        "max": 310000,
+        "currency": "USD"
+      },
+      "description": "As a Staff iOS Engineer at Robinhood, you will define technical strategy for our mobile platform and mentor a team of engineers. You'll tackle large-scale architectural challenges, drive cross-team initiatives, and ensure the stability and performance of an app used by millions of investors.",
+      "requirements": [
+        "8+ years iOS development",
+        "Track record of leading large technical projects",
+        "Deep expertise in Swift, Objective-C interop, and performance profiling",
+        "Experience defining engineering best practices",
+        "Strong mentorship skills"
+      ],
+      "employmentType": "Full-Time",
+      "postedDate": "2026-05-10T09:00:00Z",
+      "isRemote": false
+    },
+    {
+      "id": "j008",
+      "title": "iOS Developer – Health Tech",
+      "company": {
+        "name": "Oura",
+        "logoURL": null,
+        "industry": "Health & Wearables",
+        "size": "200-500 employees",
+        "about": "Oura is a Finnish health technology company known for the Oura Ring, a smart ring that provides detailed health tracking metrics including sleep, activity, and readiness.",
+        "website": "https://ouraring.com"
+      },
+      "location": {
+        "city": "Oulu",
+        "state": "N/A",
+        "country": "Finland"
+      },
+      "salary": {
+        "min": 85000,
+        "max": 120000,
+        "currency": "USD"
+      },
+      "description": "Join Oura's iOS team to build the companion app for the world's most advanced health ring. You'll work on Bluetooth LE communication, HealthKit integration, and beautiful data visualization features that help users understand their health.",
+      "requirements": [
+        "3+ years iOS development",
+        "Experience with CoreBluetooth or BLE",
+        "HealthKit knowledge is a strong plus",
+        "Interest in health and wellness technology"
+      ],
+      "employmentType": "Full-Time",
+      "postedDate": "2026-05-25T10:00:00Z",
+      "isRemote": false
+    },
+    {
+      "id": "j009",
+      "title": "iOS Engineering Intern",
+      "company": {
+        "name": "Duolingo",
+        "logoURL": null,
+        "industry": "EdTech",
+        "size": "500-1,000 employees",
+        "about": "Duolingo is a language-learning platform with a mission to develop the best education in the world and make it universally available.",
+        "website": "https://duolingo.com"
+      },
+      "location": {
+        "city": "Pittsburgh",
+        "state": "PA",
+        "country": "USA"
+      },
+      "salary": {
+        "min": 50000,
+        "max": 65000,
+        "currency": "USD"
+      },
+      "description": "Duolingo is offering iOS engineering internships for students passionate about mobile development and education. Interns work on real features shipped to Duolingo's 500M+ users and are mentored by senior engineers throughout the program.",
+      "requirements": [
+        "Currently enrolled in a CS or related degree program",
+        "Basic Swift knowledge",
+        "Personal or academic iOS project experience",
+        "Available for 12 weeks summer"
+      ],
+      "employmentType": "Internship",
+      "postedDate": "2026-06-02T08:00:00Z",
+      "isRemote": false
+    },
+    {
+      "id": "j010",
+      "title": "Senior Mobile Engineer (iOS)",
+      "company": {
+        "name": "Figma",
+        "logoURL": null,
+        "industry": "Design Tools",
+        "size": "1,000-2,000 employees",
+        "about": "Figma is a web-first collaborative interface design tool. Our mission is to make design accessible to all.",
+        "website": "https://figma.com"
+      },
+      "location": {
+        "city": "San Francisco",
+        "state": "CA",
+        "country": "USA"
+      },
+      "salary": {
+        "min": 175000,
+        "max": 235000,
+        "currency": "USD"
+      },
+      "description": "Figma is hiring a Senior Mobile Engineer to build the iOS app that lets designers and developers collaborate on the go. This role requires deep native expertise and a strong eye for design quality. You'll work closely with design and backend teams to deliver a world-class mobile experience.",
+      "requirements": [
+        "5+ years iOS development",
+        "Experience with complex rendering or canvas-based apps is a strong plus",
+        "Strong product sense and design sensibility",
+        "Experience with WebGL or Metal is a bonus"
+      ],
+      "employmentType": "Full-Time",
+      "postedDate": "2026-05-18T11:00:00Z",
+      "isRemote": false
+    },
+    {
+      "id": "j011",
+      "title": "Freelance iOS Developer",
+      "company": {
+        "name": "Toptal",
+        "logoURL": null,
+        "industry": "Talent Marketplace",
+        "size": "200-500 employees",
+        "about": "Toptal is an exclusive network of the top freelance software developers, designers, finance experts, product managers, and project managers in the world.",
+        "website": "https://toptal.com"
+      },
+      "location": {
+        "city": "Remote",
+        "state": "N/A",
+        "country": "Worldwide"
+      },
+      "salary": {
+        "min": 80,
+        "max": 200,
+        "currency": "USD"
+      },
+      "description": "Toptal is seeking elite iOS developers to join its network of top 3% tech talent. Successful applicants gain access to premium freelance projects with top-tier clients worldwide, with flexibility to choose engagement types and hours.",
+      "requirements": [
+        "Expert-level Swift and iOS development",
+        "Strong portfolio of shipped apps",
+        "Ability to work independently with minimal oversight",
+        "Excellent English communication"
+      ],
+      "employmentType": "Freelance",
+      "postedDate": "2026-06-04T12:00:00Z",
+      "isRemote": true
+    },
+    {
+      "id": "j012",
+      "title": "iOS Engineer – Maps & Navigation",
+      "company": {
+        "name": "Lyft",
+        "logoURL": null,
+        "industry": "Ride Sharing",
+        "size": "5,000+ employees",
+        "about": "Lyft is a transportation network company offering a ridesharing service, motorized scooters, bicycle-sharing system, and rental cars in the United States and Canada.",
+        "website": "https://lyft.com"
+      },
+      "location": {
+        "city": "Seattle",
+        "state": "WA",
+        "country": "USA"
+      },
+      "salary": {
+        "min": 165000,
+        "max": 210000,
+        "currency": "USD"
+      },
+      "description": "Lyft's Maps & Navigation team is looking for an iOS engineer to work on the real-time mapping, routing, and ETA features central to the Lyft rider and driver experience. You will work with MapKit, CoreLocation, and custom rendering pipelines at scale.",
+      "requirements": [
+        "4+ years iOS development",
+        "Experience with MapKit, CoreLocation, or similar mapping frameworks",
+        "Strong algorithm skills (graph traversal, geospatial queries a plus)",
+        "Interest in transportation and real-time systems"
+      ],
+      "employmentType": "Full-Time",
+      "postedDate": "2026-05-30T13:00:00Z",
+      "isRemote": false
+    }
+  ]
+}
