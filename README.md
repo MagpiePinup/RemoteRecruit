@@ -147,9 +147,11 @@ swift test
 
 ## Screenshots
 
-<img width="724" height="1573" alt="Simulator Screenshot - iPhone 17 Pro - 2026-06-08 at 15 42 29" src="https://github.com/user-attachments/assets/42fda0b1-7a86-4b78-85cf-da7880c2a17a" />   <img width="724" height="1573" alt="Simulator Screenshot - iPhone 17 Pro - 2026-06-08 at 15 42 39" src="https://github.com/user-attachments/assets/3e07359e-c645-4454-a887-d245a0c495cd" />
+<img width="290" height="629" alt="Simulator Screenshot - iPhone 17 Pro - 2026-06-08 at 15 42 39" src="https://github.com/user-attachments/assets/f978ebef-215d-4d65-8a04-483c101120df" />   <img width="290" height="629" alt="Simulator Screenshot - iPhone 17 Pro - 2026-06-08 at 15 42 29" src="https://github.com/user-attachments/assets/fb675d67-4dd9-42ac-87eb-d8fd37763d52" />
 
-<img width="724" height="1573" alt="Simulator Screenshot - iPhone 17 Pro - 2026-06-08 at 14 33 34" src="https://github.com/user-attachments/assets/5a742ac0-a4ed-4ec8-8f62-924a8e6b782d" />   <img width="724" height="1573" alt="Simulator Screenshot - iPhone 17 Pro - 2026-06-08 at 17 37 23" src="https://github.com/user-attachments/assets/1f97313b-1785-43bd-b4f4-8f64ce6c59b8" />
+<img width="290" height="629" alt="Simulator Screenshot - iPhone 17 Pro - 2026-06-08 at 14 33 34" src="https://github.com/user-attachments/assets/9eaf8f6a-5281-4314-b9fe-a4971ac3c898" />   <img width="290" height="629" alt="Simulator Screenshot - iPhone 17 Pro - 2026-06-08 at 17 37 23" src="https://github.com/user-attachments/assets/0b475120-a6e2-4d57-9c20-ec3971390368" />
+
+
 
 
 
