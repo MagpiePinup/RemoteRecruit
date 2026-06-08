@@ -141,3 +141,17 @@ swift test
 | Combine only for debounce | Using Combine only where it adds genuine value (reactive search) |
 | `final class` ViewModels | Prevents accidental subclassing; `@StateObject` expects reference type |
 | Job id passed to DetailVM | Supports deep links, push notifications, future paginated APIs |
+
+
+---
+
+## Screenshots
+
+<img width="724" height="1573" alt="Simulator Screenshot - iPhone 17 Pro - 2026-06-08 at 15 42 29" src="https://github.com/user-attachments/assets/42fda0b1-7a86-4b78-85cf-da7880c2a17a" />   <img width="724" height="1573" alt="Simulator Screenshot - iPhone 17 Pro - 2026-06-08 at 15 42 39" src="https://github.com/user-attachments/assets/3e07359e-c645-4454-a887-d245a0c495cd" />
+
+<img width="724" height="1573" alt="Simulator Screenshot - iPhone 17 Pro - 2026-06-08 at 14 33 34" src="https://github.com/user-attachments/assets/5a742ac0-a4ed-4ec8-8f62-924a8e6b782d" />   <img width="724" height="1573" alt="Simulator Screenshot - iPhone 17 Pro - 2026-06-08 at 17 37 23" src="https://github.com/user-attachments/assets/1f97313b-1785-43bd-b4f4-8f64ce6c59b8" />
+
+
+
+
+
