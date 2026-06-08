@@ -1,6 +1,6 @@
 # RemoteRecruit iOS Application
 
-A production-quality iOS job browsing app built with SwiftUI, MVVM, and async/await.
+iOS job browsing app built with SwiftUI, MVVM, and async/await.
 
 ---
 
